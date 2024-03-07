@@ -55,17 +55,16 @@ Outcome: Created interactive dashboard and Story to analyze car insurance claim 
 
 CERTIFICATIONS
 
-•	Data Analytics, Great Learning
-
-•	SQL (Basic), HackerRank   
-•	SQL (Intermediate), HackerRank   
-•	Introduction to SQL, Simplilearn   
-•	Data Science With Python, Simplilearn   
-•	Python Libraries for Data Science, Simplilearn   
-•	Data Visualization Using PowerBI, Great Learning  
-•	Business Analytics with Excel, Simplilearn  
-•	Learn Excel Online, Intellipat 
-•	Excel Using AI, Be10x
+•	Data Analytics, Great Learning.   
+•	SQL (Basic), HackerRank.      
+•	SQL (Intermediate), HackerRank.     
+•	Introduction to SQL, Simplilearn.     
+•	Data Science With Python, Simplilearn.       
+•	Python Libraries for Data Science, Simplilearn.      
+•	Data Visualization Using PowerBI, Great Learning.    
+•	Business Analytics with Excel, Simplilearn.   
+•	Learn Excel Online, Intellipat.   
+•	Excel Using AI, Be10x.  
 
 
 EDUCATION
