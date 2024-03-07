@@ -1,6 +1,6 @@
 Hello I'm Nachiket Sonar
 
-▪	Diligent data analyst with extensive knowledge of SQL, Python, Power BI, Excel, and Tableau. Seeking to leverage data analytical skills to improve corporate performance as a data analyst. Innovative, Creative, and Willing to contribute ideas and learn new things.
+▪	Certified data analyst with extensive knowledge of SQL, Python, Power BI, Excel, and Tableau. Seeking to leverage data analytical skills to improve corporate performance as a data analyst. Innovative, Creative, and Willing to contribute ideas and learn new things.
 ▪	Linkedin : https://www.linkedin.com/in/nachiket-sonar-79309227b
 
 KEY SKILLS
@@ -55,6 +55,7 @@ Outcome: Created interactive dashboard and Story to analyze car insurance claim 
 .Tools used:  Tableau
 
 CERTIFICATIONS
+•	Data Analytics, Great Learning
 ●	SQL (Basic), HackerRank   
 ●	SQL (Intermediate), HackerRank   
 ●	Introduction to SQL, Simplilearn   
@@ -66,10 +67,9 @@ CERTIFICATIONS
 ●	Excel Using AI, Be10x 
 
 EDUCATION
-Course	Institution	Year	Grade
-Data Analytics 	Great Learning	2023	
-BSc. Computer Science	Birla College of Arts, Science and Commerce, Kalyan	May-2021	9.73 CGPA
-12th Std	Birla College of Arts, Science and Commerce, Kalyan	Feb-2018	64.46%
-10th Std	S.H. Jondhale Vidya Mandir, Dombivli (Maharashtra)	March-2016	88.80%
+Data Analytics (Online Course), Great Learning	
+BSc. Computer Science	Birla College of Arts, Science and Commerce, Kalyan	-- 9.73 CGPA
+12th Std	Birla College of Arts, Science and Commerce, Kalyan -- 64.46%
+10th Std	S.H. Jondhale Vidya Mandir, Dombivli (Maharashtra) --	88.80%
 
 
