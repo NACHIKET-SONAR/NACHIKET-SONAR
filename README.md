@@ -55,8 +55,11 @@ Outcome: Created interactive dashboard and Story to analyze car insurance claim 
 .Tools used:  Tableau
 
 CERTIFICATIONS
+
 •	Data Analytics, Great Learning
+
 ●	SQL (Basic), HackerRank   
+
 ●	SQL (Intermediate), HackerRank   
 ●	Introduction to SQL, Simplilearn   
 ●	Data Science With Python, Simplilearn   
@@ -68,8 +71,11 @@ CERTIFICATIONS
 
 EDUCATION
 Data Analytics (Online Course), Great Learning	
+
 BSc. Computer Science	Birla College of Arts, Science and Commerce, Kalyan	-- 9.73 CGPA
+
 12th Std	Birla College of Arts, Science and Commerce, Kalyan -- 64.46%
+
 10th Std	S.H. Jondhale Vidya Mandir, Dombivli (Maharashtra) --	88.80%
 
 
