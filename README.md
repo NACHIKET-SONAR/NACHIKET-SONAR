@@ -1,7 +1,6 @@
 Hello I'm Nachiket Sonar
 
 ▪	Certified data analyst with extensive knowledge of SQL, Python, Power BI, Excel, and Tableau. Seeking to leverage data analytical skills to improve corporate performance as a data analyst. Innovative, Creative, and Willing to contribute ideas and learn new things.
-▪	Linkedin : https://www.linkedin.com/in/nachiket-sonar-79309227b
 
 KEY SKILLS
 ●	Data Processing
@@ -57,6 +56,7 @@ Outcome: Created interactive dashboard and Story to analyze car insurance claim 
 CERTIFICATIONS
 
 •	Data Analytics, Great Learning
+
 •	SQL (Basic), HackerRank   
 •	SQL (Intermediate), HackerRank   
 •	Introduction to SQL, Simplilearn   
